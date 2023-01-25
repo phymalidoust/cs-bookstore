@@ -7,7 +7,7 @@ Imagine a bookstore receives books that need to be repaired. According to the wo
 
 The code simulates a primitive registration system where it registers books and repairs' history with unique book and repair IDs.
 
-When registering a new item, it gives an alarm if a book or repair was already registered in the system and retrieves information for registered books.
+When registering new items, it gives an alarm if a book or repair was already registered in the system and retrieves information for registered books.
 ## Directories
 ### BookRepairWorkshop
 It contains the main code `Program.cs` and classes `Book.cs`, `Repair.cs`, `WorkShop.cs`, `Tools.cs`. The comments in the codes describe individual tasks that each part of the code performs.
