@@ -1,9 +1,9 @@
 # Sample code in C#
 Created by Mohammad Alidoust
 
-## Book store and book repair workshop
+## Bookstore and book repair workshop
 
-Imagine a bookstore receives books that need to be repaired. According to workshop, the bookstore should divide the books into three categories (1) 'Ancient': Age>30y (2) "Old": 30>Age>10 (3) "Young": Age<10.
+Imagine a bookstore receives books that need to be repaired. According to the workshop, the bookstore should divide the books into three categories (1) 'Ancient': Age>30y (2) "Old": 30>Age>10 (3) "Young": Age<10.
 
 The sample code thus registers books and repair history with unique book and repair IDs. 
 
