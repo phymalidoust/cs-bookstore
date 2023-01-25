@@ -1,0 +1,15 @@
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\bin\Debug\net7.0\BookRepairWorkshop.exe
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\bin\Debug\net7.0\BookRepairWorkshop.deps.json
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\bin\Debug\net7.0\BookRepairWorkshop.runtimeconfig.json
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\bin\Debug\net7.0\BookRepairWorkshop.dll
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\bin\Debug\net7.0\BookRepairWorkshop.pdb
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\BookRepairWorkshop.csproj.AssemblyReference.cache
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\BookRepairWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\BookRepairWorkshop.AssemblyInfoInputs.cache
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\BookRepairWorkshop.AssemblyInfo.cs
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\BookRepairWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\BookRepairWorkshop.dll
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\refint\BookRepairWorkshop.dll
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\BookRepairWorkshop.pdb
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\BookRepairWorkshop.genruntimeconfig.cache
+C:\Users\Mohammad\BookStore\BookRepairWorkshop\BookRepairWorkshop\obj\Debug\net7.0\ref\BookRepairWorkshop.dll
