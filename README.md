@@ -1,4 +1,4 @@
-# Sample code in C#
+# Code in C#
 Created by Mohammad Alidoust
 
 ## Bookstore and book repair workshop
